@@ -1,0 +1,14 @@
+{
+	"title": "Thunder Makes Fire",
+	"type": "effects",
+	"tags": 
+	[
+		"realism",
+		"scenic"
+	],
+  "ignore": 
+	[
+		".vs/*",
+		"*.ignore"
+	]
+}
